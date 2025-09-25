@@ -4,46 +4,6 @@
 
 This project demonstrates data cleaning and analysis in Excel using a student marks dataset. The goal was to clean raw data, apply formulas, create reports, and visualize insights for practice in data analysis.
 
-🗂 Dataset
-
-Raw Dataset: Student_Data_Uncleaned.csv
-
-Cleaned Dataset: Student_Data_Cleaned.csv
-
-Steps Performed
-1. Data Cleaning
-
-Removed duplicates
-
-Standardized columns
-
-Added new calculated columns:
-
-Total Marks → =SUM(Subject1, Subject2, Subject3, ...)
-
-Percentage → (Total Marks / Maximum Marks) * 100
-
-2. Excel Workbook Creation (Student_Marksheet.xlsx)
-
-Converted dataset into a Table for structured formatting.
-
-Used Slicer for easy filtering.
-
-Applied VLOOKUP to quickly find Total Marks and Percentage for any student.
-
-3. Data Analysis
-
-Built a Pivot Table to analyze:
-
-Class-wise minimum and maximum marks
-
-Class-wise minimum and maximum percentage
-
-4. Visualization
-
-Created a Graph (chart) to show:
-
-Maximum and Minimum Percentage by Class
 
 📈 Key Learnings
 
@@ -57,13 +17,6 @@ Pivot tables for aggregated analysis
 
 Charts for better visualization
 
-📂 Files in Repository
-
-Student_Data_Uncleaned.csv → Original raw data
-
-Student_Data_Cleaned.csv → Cleaned dataset with calculated fields
-
-Student_Marksheet.xlsx → Final Excel workbook with analysis, pivot tables, and charts
 
 🚀 How to Use
 
