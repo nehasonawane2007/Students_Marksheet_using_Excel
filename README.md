@@ -1,5 +1,3 @@
-📊 Student Marksheet Data Analysis
-
 📌 Project Overview
 
 This project demonstrates data cleaning and analysis in Excel using a student marks dataset. The goal was to clean raw data, apply formulas, create reports, and visualize insights for practice in data analysis.
@@ -16,19 +14,6 @@ Lookup functions for quick search
 Pivot tables for aggregated analysis
 
 Charts for better visualization
-
-
-🚀 How to Use
-
-Open Student_Marksheet.xlsx in Excel
-
-Explore the Table with slicers
-
-Use VLOOKUP to find student details
-
-Check Pivot Tables for aggregated insights
-
-View Graphs for visualization
 
 
 <img width="1917" height="779" alt="Marksheet" src="https://github.com/user-attachments/assets/e58ee0ca-fd6f-416e-be05-ad5ded0193c3" />
